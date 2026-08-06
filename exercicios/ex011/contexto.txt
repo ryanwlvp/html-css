@@ -1,0 +1,1 @@
+Esse exercício é referente ao capítulo 11, aulas 1 e 2, que ensinam a trabalhar com imagens de tamanhos diferentes utilizando a tag picture e a tag source pra organizar qual imagem vai aparecer em cada resolução. A foto maior sempre deve ser a última e a foto menor (menos pixels) deve ser sempre a primeira, isso considerando de cima pra baixo.
