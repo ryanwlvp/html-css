@@ -1,1 +1,0 @@
-Esse exercício ensina a estilização das CSS inline, que não é nada prático, e tem que configurar cada linha que você quer alterar, com isso poluindo totalmente o código e gastando muito mais tempo para trabalhar

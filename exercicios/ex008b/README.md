@@ -1,1 +1,0 @@
-Continuação do ex 008, apresentando mais formatações para os textos em HTML
